@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+
+.container{margin: auto; width: 80%;}
+body { max-width: 1920px;}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+  
+  
